@@ -1,9 +1,7 @@
 View this project on [CADLAB.io](https://cadlab.io/project/1464). 
 
 # virtualGimbal
-VirtualGimbal is a post-processing electronic stabilization device for videos that were taken by a hand-held camera. (I.e. DSLRs)
-For more information, please see: [PetaPixel]( https://petapixel.com/2016/08/11/sd-card-built-gyro-sensor-stabilize-shots/ "PetaPixel").  
-VirtualGimbal consists of both an SD Card adaptor that is retrofitted with an IMU and software for post-processing. This repository releases the post-processing software along with information about the construction of the physical SD card.
+VirtualGimbal is a post-processing electronic stabilization device for videos that were taken by a hand-held camera. (I.e. DSLRs) For more information, please see: [PetaPixel]( https://petapixel.com/2016/08/11/sd-card-built-gyro-sensor-stabilize-shots/ "PetaPixel"). VirtualGimbal consists of both an SD Card adaptor that is retrofitted with an IMU and software for post-processing. This repository releases the post-processing software along with information about the construction of the physical SD card.
 
 ## Demo
 <https://youtu.be/E9JKbxqoJcY>
